@@ -1,0 +1,6 @@
+// Add your dependencies here
+
+dependencies {
+    implementation "com.github.GTNewHorizons:NotEnoughItems:master-SNAPSHOT:dev"
+    implementation "com.github.GTNewHorizons:ForgeMultipart:master-SNAPSHOT:dev"
+}
